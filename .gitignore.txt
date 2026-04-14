@@ -1,0 +1,22 @@
+# Thư mục của CLion
+.idea/
+
+# File build
+cmake-build-*/
+
+# File thực thi
+*.exe
+*.out
+
+# File object
+*.o
+*.obj
+
+# File log
+*.log
+
+# File tạm
+*.tmp
+
+# Windows
+Thumbs.db

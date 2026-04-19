@@ -41,4 +41,14 @@ add_executable(BaitapCoSoLapTrinh main.c
         LuyenTap4_Chuong3/Bai5.c
         LuyenTap4_Chuong3/Bai6.c
         LuyenTap4_Chuong3/Bai7.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang15.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang17.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang19.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang24.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang26.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang28.c
+        LuyenTap5_Chuong4/Bai1_Chuong4_Trang30.c
+        LuyenTap5_Chuong4/Bai2.c
+        LuyenTap5_Chuong4/Bai3.c
+        LuyenTap5_Chuong4/Bai4.c
 )
